@@ -264,3 +264,6 @@ This repository serves as the official landing page for McAfee AntiVirus. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of McAfee AntiVirus today!**
+
+---
+**Last updated:** 2026-09-10 08:30:40 UTC
