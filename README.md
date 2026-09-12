@@ -266,4 +266,4 @@ This repository serves as the official landing page for McAfee AntiVirus. The so
 **Get the most recent version of McAfee AntiVirus today!**
 
 ---
-**Last updated:** 2026-09-12 02:12:41 UTC
+**Last updated:** 2026-09-12 07:27:42 UTC
